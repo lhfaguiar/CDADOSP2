@@ -1,12 +1,8 @@
 # CDADOSP2
 
 ## Arquivos encontrados no repositório:
-- projeto.ipynb
-- casos_obitos_doencas_preexistentes.csv
-- casos_obitos_doencas_preexistentes_tratado.csv
+- projeto.ipynb (arquivo jupyter onde o trabalho esta documentado)
+- casos_obitos_doencas_preexistentes.csv (base de dados utilizada no projeto)
+- casos_obitos_doencas_preexistentes_tratado.csv (arquivo que utilizamos para backup de modificações no inicio do trabalho)
 
-### projeto.ipynb
-notebook relatório
 
-### casos_obitos_doencas_preexistentes.csv
-base usada para análise de probabilidade de óbito com base nas patologias que a pessoa já possuía e sua idade
